@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Abu Tayab</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif" alt="coding">
+<img src="https://cdn.dribbble.com/users/239755/screenshots/3019824/dave_coding_dribbble.gif" alt="coding" hieght="280" width="350">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayabdreamer&label=Profile%20views&color=0e75b6&style=flat" alt="tayabdreamer" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
